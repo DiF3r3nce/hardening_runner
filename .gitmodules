@@ -1,0 +1,3 @@
+[submodule "roles/sec_configuration"]
+	path = roles/sec_configuration
+	url = https://github.com/DiF3r3nce/sec_configuration.git
