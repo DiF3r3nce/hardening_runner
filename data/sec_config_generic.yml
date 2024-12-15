@@ -1,7 +1,7 @@
 ---
 # Security Configuration Generic - TO BE APPLIED TO MULTIPLE PRODUCTS
 remove_sudo_capabilities: false
-ssh_root_locked: true
+ssh_root_locked: false
 emergency_account: false
-emergency_username: 'emaccount'
-emergency_password: '$6$1bqsw.wBxg1ceXHO$t0HQBXrSW2xZhzUDldXbjirpHajYI3Qz8GfYupRoQBE3CJa/sc5doyEA/kr7A1PFbOHG2..4B9YXQTZTUoRaP0'
+emergency_username: "emaccount"
+emergency_password: "$6$KsTdoeZx1/sNlWaA$h6vRoayLQY1jy2Gmkz/RAgrBO1n9oxrYPeK0uZJKtOy7bRaWt..atMvgo7xAhUZEJQw54T55zkpYFlCQ3AvPE1"
