@@ -6,4 +6,3 @@ emergency_account: true
 emergency_username: "emaccount"
 emergency_password: "$6$KsTdoeZx1/sNlWaA$h6vRoayLQY1jy2Gmkz/RAgrBO1n9oxrYPeK0uZJKtOy7bRaWt..atMvgo7xAhUZEJQw54T55zkpYFlCQ3AvPE1"
 disable_ssh: true
-
