@@ -1,4 +1,4 @@
 ---
 # Security Configuration Generic - TO BE APPLIED TO MULTIPLE PRODUCTS
 remove_sudo_capabilities: false
-ssh_root_locked: false
+ssh_root_locked: true
